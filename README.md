@@ -1,2 +1,2 @@
-# PersonalProjects
-In this repository there are so many mini projects will be added frequently
+# Project Euler in py
+In this repository there are solutions for project euler
